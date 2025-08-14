@@ -24,9 +24,8 @@ Easily run tests for **multi-touch**, **camera**, **buttons**, **vibration**, **
 
 ## 📸 Screenshots
 
-| ![Screenshot 1](s1.png) | ![Screenshot 2](s2.png) |
+| ![Screenshot 1](assets/s2.png) | ![Screenshot 2](assets/s1.png) |
 |-------------------------|-------------------------|
-| ![Screenshot 3](s3.png) | ![Screenshot 4](s4.png) |
 
 ---
 
