@@ -28,7 +28,7 @@ Easily run tests for **multi-touch**, **camera**, **buttons**, **vibration**, **
 |-------------------------|-------------------------|
 
 
-| <img src="assets/s1.png" width="300"/> | <img src="assets/s2.png" width="300"/> |
+| <img src="assets/s1.jpeg" width="300"/> | <img src="assets/s2.jpeg" width="300"/> |
 |---------------------------------|---------------------------------|
 | Screenshot 1                    | Screenshot 2                    |
 
